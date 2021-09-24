@@ -1,9 +1,9 @@
-### Hi there 👋
+## Hi there 👋
 
 ### 🌱 I’m currently learning
-📌 Spring Boot/Spring
-📌 JavaScript
-📌 Data Structure by Java
+- 📌 Spring Boot/Spring
+- 📌 JavaScript
+- 📌 Data Structure by Java
 ### 📫 How to reach me:
 📧 lyubliss@gmail.com
 
