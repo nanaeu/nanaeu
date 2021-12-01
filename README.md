@@ -3,7 +3,7 @@
 ### 🌱 I’m currently learning
 - Spring Boot/Spring
 - JavaScript
-- Data Structure by Java
+- Java
 ### 📫 How to reach me:
 📧 lyubliss@gmail.com
 
