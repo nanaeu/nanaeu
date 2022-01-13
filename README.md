@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 ### 🌱 I’m currently learning
-- Spring Boot/Spring
-- JavaScript
+- Spring Boot/Spring5
 - Java
 ### 📫 How to reach me:
 📧 lyubliss@gmail.com
