@@ -1,4 +1,4 @@
-## 꾸준히 성장하는 예비 개발자, 이유진입니다.
+## 한발 앞서 준비하는 예비 개발자, 이유진입니다.
 
 ### 🌱 I’m currently learning
 - Spring Boot/Spring5
