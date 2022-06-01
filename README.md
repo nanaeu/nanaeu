@@ -2,6 +2,7 @@
 
 ### 🌱 I’m currently learning
 - Spring Boot/Spring5
+- JPA
 - Java
 ### 📫 How to reach me:
 📧 lyubliss@gmail.com
